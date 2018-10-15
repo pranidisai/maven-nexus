@@ -37,8 +37,8 @@
 </dependency>
 </dependencies>
 <scm>
-<connection>scm:https://github.com/pranidisai/maven-repository.git</connection>
-<developerConnection>scm:https://github.com/pranidisai/maven-repository.git</developerConnection>
+<connection>scm:https://github.com/pranidisai/maven-nexus.git</connection>
+<developerConnection>scm:https://github.com/pranidisai/maven-nexus.git</developerConnection>
 </scm>
 <distributionManagement>
 <repository>
